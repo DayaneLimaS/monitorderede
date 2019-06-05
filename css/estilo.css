@@ -1,18 +1,19 @@
 body {
-	background-color:#FA8072;
+	background-color:#eee;
 }
 .bloco {
-	border:3px solid #D8BFD8;
-	padding:20px;
-	margin:20px;
+	border:3px solid orange;
+	padding:10px;
+	margin:10px;
 	width:200px;
-}	
-
+	display:block;
+	float:left;
+}
 .online {
 	background-color:green;
 	color:white;
-}	
+}
 .offline {
 	background-color:red;
 	color:white;
-}	
+}
